@@ -1,6 +1,8 @@
 # Authentication System with JWT and GitHub OAuth
 
-A backend authentication system built with Node.js, Express and MongoDB featuring local authentication, GitHub OAuth, JWT authorization, secure cookies and role-based access control.
+A backend authentication and authorization system built with Node.js, Express and MongoDB.
+
+The project implements local authentication, GitHub OAuth 2.0, JWT-based authorization, secure HTTP-only cookies, protected routes and role-based access control.
 
 ## Overview
 
